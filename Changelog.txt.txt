@@ -1,0 +1,6 @@
+1. Removed audio - removing the loadSound code from main.cpp. This code was pre-added by Filippo, so we just removed it. (Aayush Sarcar)
+
+2. Project Settings - now warning level is set to level 1 and I also changed it so that all warnings get treated as an error. As per project requirements, we are supposed to only deal with level 4 warnings.
+(Adarsh Kumar)
+
+3. 

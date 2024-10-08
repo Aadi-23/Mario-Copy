@@ -1,0 +1,2 @@
+PR ./Assets/player_run_sheet.png 4 0
+PJ ./Assets/player_jump_sheet.png 4 1
